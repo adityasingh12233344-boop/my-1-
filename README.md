@@ -1,4 +1,4 @@
 # my-1-
-this is my fist git repository project
+This is my fist git repository project
 <br>
 author -- aditya singh
